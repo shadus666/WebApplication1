@@ -17,7 +17,7 @@ namespace WebApplication1.Controllers
           new Categoria() { CategoriaId = 4, Nome = "Mouses"},
           new Categoria() { CategoriaId = 5, Nome = "Desktops"}
 };
-
+         //teste
         // GET: Categorias
         public ActionResult Index()
         {
